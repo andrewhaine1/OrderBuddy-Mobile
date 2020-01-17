@@ -1,0 +1,13 @@
+.ff-background {
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(49, 49, 49, 0.3)), url('img/fast_food_bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-white {
+    background: #fff;
+}
+
+.content-inner {
+    padding: 10px;
+}
